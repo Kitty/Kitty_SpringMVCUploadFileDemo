@@ -5,7 +5,7 @@
 
 通过spring mvc 框架实现文件上传的三种方式
 
-具体文件上传实现方式可以结合注释阅读 UploadFileAction.java
+具体文件上传实现方式 结合注释阅读 UploadFileAction.java
 
 #上传路径
 
