@@ -7,7 +7,7 @@
 
 具体文件上传实现方式 结合注释阅读 UploadFileAction.java
 
-#上传路径
+#文件上传路径
 
 E:/
 
