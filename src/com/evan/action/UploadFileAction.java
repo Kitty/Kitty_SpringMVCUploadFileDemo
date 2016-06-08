@@ -1,4 +1,4 @@
-package com.evan.action;
+﻿package com.evan.action;
 
 import java.io.File;
 import java.io.FileOutputStream;
@@ -23,7 +23,7 @@ public class UploadFileAction {
 	}
 
 	/**
-	 * 1、最原始的输入输出流复制文件
+	 * 1、最原始的输入输出流复制文件（IO流）
 	 */
 	@RequestMapping("/parserUploadFile1")
 	public String parserUploadFile1(MultipartFile file) throws IOException {
