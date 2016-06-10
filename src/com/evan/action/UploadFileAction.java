@@ -67,7 +67,7 @@ public class UploadFileAction {
 	}
 
 	/**
-	 * 3、通过springMVC提供的API
+	 * 3、通过springMVC提供的API上传文件
 	 */
 	@RequestMapping("/parserUploadFile3")
 	public String parserUploadFile3(MultipartFile file) throws IOException {
