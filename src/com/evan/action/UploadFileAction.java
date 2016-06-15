@@ -15,7 +15,9 @@ import org.springframework.web.multipart.MultipartFile;
 @RequestMapping("/upload")
 public class UploadFileAction {
 
-	
+	/**
+	 * 上传文件主页面
+	 */
 	
 	@RequestMapping("/toUploadFileView1")
 	public String toUploadFileView1() {
