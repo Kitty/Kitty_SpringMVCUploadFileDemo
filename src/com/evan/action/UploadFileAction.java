@@ -49,7 +49,7 @@ public class UploadFileAction {
 	}
 
 	/**
-	 * 2、通过apache自带的FileUtils工具类进行复制上传
+	 * 2、通过apache自带的FileUtils工具类进行复制上传文件
 	 */
 	@RequestMapping("/parserUploadFile2")
 	public String parserUploadFile2(MultipartFile file) throws IOException {
